@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../practice"
+		},
+		{
+			"path": "../Макет 1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Заннятя 6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Макет 2"
+	}
+}
